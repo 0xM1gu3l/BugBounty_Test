@@ -1,0 +1,21 @@
+{
+    "customerName": "Ednaldo Pereira",
+    "customerDocument": "98765432109",
+    "customerPhone": "6511111111",
+    "orderNumber": "1",
+    "customerEmail": "ednaldo@pereiragroup.com.br",
+    "products": [
+      {
+        "id": 1,
+        "name": "Descascador de Banana",
+        "quantity": 100,
+        "value": "98999.99"
+      }
+    ],
+    "coupons": [
+      { "url": "https://google.com/coupon?id=1" },
+      { "url": "https://google.com/coupon?id=2" },
+      { "url": "https://google.com/coupon?id=3" },
+      { "url": "https://google.com/coupon?id=4" }
+    ]
+  }
