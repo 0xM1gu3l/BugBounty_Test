@@ -13,9 +13,6 @@
       }
     ],
     "coupons": [
-      { "url": "https://google.com/coupon?id=1" },
-      { "url": "https://google.com/coupon?id=2" },
-      { "url": "https://google.com/coupon?id=3" },
-      { "url": "https://google.com/coupon?id=4" }
+      { "url": "https://google.com/coupon?id=1" }
     ]
   }
